@@ -1,7 +1,7 @@
 # Concept-to-stop-climate-change-via-code
 Concept to stop climate change via the emission trading system, which automatically impacts global trading
 
-Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic).
+Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties: even more).
 
 <img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
 
