@@ -1,10 +1,3 @@
-# Concept-to-stop-climate-change-via-code
-Concept to stop climate change via the emission trading system, which automatically impacts global trading
-
-Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties: even more).
-
-<img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
-
 # The difference to the current emissions trading systems: 
 
 1.) complete global transparency throughout the whole CO2 supply chain and the global planned CO2 budget.
@@ -12,6 +5,14 @@ Implement this e.g. on the EU level and this will automatically force import fro
 2.) very little bureaucracy.
 
 3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!)
+
+# Concept for global, transparent CO2 supply chain tracking via blockchain
+
+Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties: even more).
+
+<img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
+
+
 # Q&A:
 Question: Does every company that emits CO2 have to have multiple controllers?
 
