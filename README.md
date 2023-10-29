@@ -4,7 +4,7 @@
 
 2.) very little bureaucracy.
 
-3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!)
+3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!), as everyone has no other choice, than to buy CO2 certificates. No one within this system would want to trade with a person / company without the according blockchain-CO2 certificates.
 
 # How it would work:
 <img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
