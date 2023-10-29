@@ -6,7 +6,7 @@
 
 3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!)
 
-# Concept for global, transparent CO2 supply chain tracking via blockchain
+# How it would work:
 
 Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to buy CO2 certificates & save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties, then this would include even more % of global international merchandise traffic).
 
