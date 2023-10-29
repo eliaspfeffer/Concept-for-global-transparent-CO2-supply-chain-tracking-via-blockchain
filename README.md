@@ -7,11 +7,10 @@
 3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!)
 
 # How it would work:
-
-Implement this e.g. on the EU level and this will automatically force import from other countries like America, China, India etc. to buy CO2 certificates & save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties, then this would include even more % of global international merchandise traffic).
-
 <img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
 
+# Why this has a massive impact:
+Implementing this e.g. on the EU level will automatically force import from other countries like America, China, India etc. to buy CO2 certificates & save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties with the EU, then this would include even more % of global international merchandise traffic).
 
 # Q&A:
 Question: Does every company that emits CO2 have to have multiple controllers?
