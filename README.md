@@ -1,10 +1,10 @@
-# The difference to the current emissions trading systems: 
+# Advantages, compared to the current emissions trading systems: 
 
-1.) complete global transparency throughout the whole CO2 supply chain and the global planned CO2 budget.
+1.) Completes global transparency throughout the whole CO2 supply chain and the global planned CO2 budget.
 
-2.) very little bureaucracy.
+2.) Very little bureaucracy.
 
-3.) stops the tragedy/dilemma of the commons (also known as social dilemma, very important!), as everyone has no other choice, than to buy CO2 certificates. No one within this system would want to trade with a person / company without the according blockchain-CO2 certificates.
+3.) Stops the tragedy/dilemma of the commons (also known as social dilemma, very important!), as everyone has no other choice, than to buy CO2 certificates. No one within this system would want to trade with a person / company without the according blockchain-CO2 certificates.
 
 # How it would work:
 <img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
