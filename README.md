@@ -9,9 +9,10 @@
 # How it would work:
 <img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
 
-<img width="595" alt="IMG_1629" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/35fbfe62-827e-420a-8ffd-14891f5ebd14?raw=true">
+<img width="595" alt="IMG_1633" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/45443458-5cff-478e-aa1f-92a765569506">
 
 <img width="595" alt="IMG_1629" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/d7deffff-2250-4ce3-ab7c-153e0d054159?raw=true">
+
 
 # Why this has a massive impact:
 Implementing this e.g. on the EU level will automatically force import from other countries like America, China, India etc. to buy CO2 certificates & save CO2, as they otherwise would have no demand from the EU anymore (EU27 = ~450 million people, with 14% of global international merchandise traffic. When counting other nations with trading treaties with the EU, then this would include even more % of global international merchandise traffic).
