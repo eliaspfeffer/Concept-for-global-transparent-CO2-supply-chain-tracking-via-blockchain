@@ -7,9 +7,8 @@
 3.) Stops the tragedy/dilemma of the commons (also known as social dilemma, very important!), as everyone has no other choice, than to buy CO2 certificates. No one within this system would want to trade with a person / company without the according blockchain-CO2 certificates.
 
 # Explanation-video in german (click):
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=unUfdHsKH4w" target="_blank">
-  <img src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/e5bfd90f-d07d-4679-ac81-efabd06ed2d3" alt="Video-Name" width="595" />
-</a>
+
+[![Current problems with climate change (Why humanity fails) and one solution (Blockchain based ETS)](https://img.youtube.com/vi/unUfdHsKH4w/maxresdefault.jpg)](https://youtu.be/unUfdHsKH4w)
 
 # How it would work:
 
