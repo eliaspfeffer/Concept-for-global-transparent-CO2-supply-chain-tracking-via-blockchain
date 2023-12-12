@@ -12,7 +12,7 @@
 
 # How it would work:
 
-<img width="595" alt="IMG_1542" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
+<img width="595" alt="IMG_1633" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
 
 <img width="595" alt="IMG_1633" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/45443458-5cff-478e-aa1f-92a765569506">
 
