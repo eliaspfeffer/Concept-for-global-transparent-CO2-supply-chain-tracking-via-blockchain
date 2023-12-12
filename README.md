@@ -12,11 +12,13 @@
 
 # How it would work:
 
-<img width="595" alt="IMG_1633" src="https://github.com/DasDouble/Concept-to-stop-climate-change-via-code/assets/77044936/bc9c7dbe-f206-4166-9f39-a4bf7c81c549">
 
-<img width="595" alt="IMG_1633" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/45443458-5cff-478e-aa1f-92a765569506">
+<img width="595" alt="IMG_1731" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/d647a468-202c-4c3f-8dec-2b72dd2a2550">
 
-<img width="595" alt="IMG_1629" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/d7deffff-2250-4ce3-ab7c-153e0d054159?raw=true">
+
+<img width="595" alt="IMG_1732" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/65ba2d0a-3652-4114-901f-dddda08c9789">
+
+<img width="595" alt="IMG_1732" src="https://github.com/eliaspfeffer/Concept-for-global-transparent-CO2-supply-chain-tracking-via-blockchain/assets/77044936/3cb89a36-f975-42a0-8f45-6c375573df65">
 
 
 # Why this has a massive impact:
